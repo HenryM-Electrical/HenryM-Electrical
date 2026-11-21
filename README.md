@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HenryM-Electrical
-- 👀 I’m interested in Electrical Engineering in the Built Environment. 
 - 📫 You can reach me on info@loadsense.app
 
 <!---
